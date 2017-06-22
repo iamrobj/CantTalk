@@ -14,16 +14,22 @@ portfolio_title: Our top picks
 portfolio_subtext: Our favourite places you should check out this week
 portfolio_item_1_title: Street Feast
 portfolio_item_1_subtext: more info
+portfolio_item_1_img: 1.jpg
 portfolio_item_2_title: Item 2
 portfolio_item_2_subtext: more info
+portfolio_item_2_img: 2.jpg
 portfolio_item_3_title: Item 3
 portfolio_item_3_subtext: more info
+portfolio_item_3_img: 3.jpg
 portfolio_item_4_title: Item 4
 portfolio_item_4_subtext: more info
+portfolio_item_4_img: 4.jpg
 portfolio_item_5_title: Item 5
 portfolio_item_5_subtext: more info
+portfolio_item_5_img: 5.jpg
 portfolio_item_6_title: Item 6
 portfolio_item_6_subtext: more info
+portfolio_item_6_img: 6.jpg
 
 features_title: Unlimited features, Unlimited fun
 features_subtext: Check out what you can do with this app theme!
@@ -41,16 +47,16 @@ social_banner: Follow us!
 aside_title: Never miss another foodie event again!
 aside_btn_text: Sign up for the newsletter
 
-baseurl: "http://robj.me/foodielondon_2/" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
+baseurl: "/" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "http://robj.me/foodielondon_2/" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
-data-ad-slot: 2973388149
-data-ad-client: ca-pub-9204963049240271
-google_ad_client: ca-pub-9204963049240271
+data-ad-slot: 
+data-ad-client: 
+google_ad_client: 
 
-google_analytics: "UA-86331249-1"
-addthis_id: ra-5644da281510c62f
+google_analytics: #"UA-86331249-1"
+addthis_id: #ra-5644da281510c62f
 disqus_account: 
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
