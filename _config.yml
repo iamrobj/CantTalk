@@ -1,10 +1,10 @@
 # Site settings
 site_name: Stuffd LDN
-title: Keeping you up to date on foodie events in London
+title: The ultimate guide to London's hottest food events
 email:
 description: A jekyll template for landing pages, portfolio and blogging
 
-landing_caption: There has never been a better time to be a foodie in London.
+landing_caption: There has never been a better time to be a foodie in London
 landing_caption_btn: Tell me more
 
 app_cta_title: Discover what all the buzz is about!
@@ -12,7 +12,7 @@ app_cta_subtext: Our app will be available to download soon! Register now to be 
 
 portfolio_title: Our top picks
 portfolio_subtext: Our favourite places you should check out this week
-portfolio_item_1_title: Item 1
+portfolio_item_1_title: Street Feast
 portfolio_item_1_subtext: more info
 portfolio_item_2_title: Item 2
 portfolio_item_2_subtext: more info
