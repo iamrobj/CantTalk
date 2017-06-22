@@ -41,8 +41,8 @@ social_banner: Follow us!
 aside_title: Never miss another foodie event again!
 aside_btn_text: Sign up for the newsletter
 
-baseurl: "/foodielondon_2" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
-url: "/" # the base hostname & protocol for your site
+baseurl: "http://robj.me/foodielondon_2/" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
+url: "http://robj.me/foodielondon_2/" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: 2973388149
