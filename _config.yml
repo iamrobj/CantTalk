@@ -41,7 +41,7 @@ social_banner: Follow us!
 aside_title: Never miss another foodie event again!
 aside_btn_text: Sign up for the newsletter
 
-baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
+baseurl: "/" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "/" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
@@ -51,7 +51,7 @@ google_ad_client: ca-pub-9204963049240271
 
 google_analytics: "UA-86331249-1"
 addthis_id: ra-5644da281510c62f
-disqus_account: jeky-new-age
+disqus_account: 
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:
