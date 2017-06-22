@@ -12,7 +12,7 @@ layout: default
                 {% if page.subtitle %}
                 <h2 class="subheading">{{ page.subtitle }}</h2>
                 {% endif %}
-                <p class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</p>
+                <p class="meta">{% if page.author %}Posted by {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}{% else %}{{ page.posted_by_replacement }}{% endif %}</p>
                 <a href="#post" class="page-scroll"><i class="fa fa-fw fa-2x fa-arrow-down"></i></a>
               </div>
             </div>
@@ -74,7 +74,7 @@ layout: default
 
 <hr>
 
-{% if site.disqus_account %}
+{% if site.disqus_account and page.comments %}
 <article>
   <div id="disqus" class="container">
     <div class="row">

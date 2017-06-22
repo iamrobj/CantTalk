@@ -1,10 +1,48 @@
 # Site settings
-title: Antonio Trento, theme Jeky New Age, the start Bootstrap themplate build for jekyll
+site_name: Stuffd LDN
+title: Keeping you up to date on foodie events in London
 email:
 description: A jekyll template for landing pages, portfolio and blogging
 
+landing_caption: There has never been a better time to be a foodie in London.
+landing_caption_btn: Tell me more
+
+app_cta_title: Discover what all the buzz is about!
+app_cta_subtext: Our app will be available to download soon! Register now to be the first to get it!
+
+portfolio_title: Our top picks
+portfolio_subtext: Our favourite places you should check out this week
+portfolio_item_1_title: Item 1
+portfolio_item_1_subtext: more info
+portfolio_item_2_title: Item 2
+portfolio_item_2_subtext: more info
+portfolio_item_3_title: Item 3
+portfolio_item_3_subtext: more info
+portfolio_item_4_title: Item 4
+portfolio_item_4_subtext: more info
+portfolio_item_5_title: Item 5
+portfolio_item_5_subtext: more info
+portfolio_item_6_title: Item 6
+portfolio_item_6_subtext: more info
+
+features_title: Unlimited features, Unlimited fun
+features_subtext: Check out what you can do with this app theme!
+features_feature_1_title: Device Mockups
+features_feature_1_subtext: Some text about this feature
+features_feature_2_title: Flexible use
+features_feature_2_subtext: Some text about this feature
+features_feature_3_title: Free to use
+features_feature_3_subtext: Some text about this feature
+features_feature_4_title: Open Source
+features_feature_4_subtext: Some text about this feature
+
+social_banner: Follow us!
+
+aside_title: Never miss another foodie event again!
+aside_btn_text: Sign up for the newsletter
+
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
-url: "https://jekynewage.github.io" # the base hostname & protocol for your site
+url: "/" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: 2973388149
@@ -18,11 +56,13 @@ disqus_account: jeky-new-age
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:
   - title: twitter
-    url: https://twitter.com/lantoniotrento
-  - title: facebook
-    url: https://facebook.com/lantoniotrento
-  - title: google-plus
-    url: https://plus.google.com/+AntoniotrentoIt
+    url: https://twitter.com/getstuffdldn
+  - title: instagram
+    url: https://instagram.com/getstuffdldn
+  #- title: facebook
+  #  url: https://facebook.com/lantoniotrento
+  #- title: google-plus
+  #  url: https://plus.google.com/+AntoniotrentoIt
   #- title: github
   #  url: http://github.com/jekyll
 
