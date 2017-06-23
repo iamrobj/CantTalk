@@ -71,8 +71,10 @@ social:
     url: https://twitter.com/getstuffdldn
   - title: instagram
     url: https://instagram.com/getstuffdldn
-  #- title: facebook
-  #  url: https://facebook.com/lantoniotrento
+  - title: facebook
+    url: https://facebook.com/getstuffdldn
+  - title: youtube
+    url: https://youtube.com/getstuffdldn
   #- title: google-plus
   #  url: https://plus.google.com/+AntoniotrentoIt
   #- title: github
