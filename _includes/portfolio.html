@@ -26,8 +26,8 @@
     <div class="container-fluid">
         <div class="row no-gutter">
             <div class="col-lg-4 col-sm-6">
-                <a href="#" class="portfolio-box">
-                    <img src="{{ "/img/portfolio/" | append: site.portfolio_item_1_img }}" class="img-responsive" alt="">
+                <a href="{% if site.portfolio_item_1_slug %}{{ site.portfolio_item_1_slug }}{% else %}{{ "#" }}{% endif %}" class="portfolio-box">
+                    <img src="{{ "/img/top_picks/" | append: site.portfolio_item_1_img }}" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
@@ -41,8 +41,8 @@
                 </a>
             </div>
             <div class="col-lg-4 col-sm-6">
-                <a href="#" class="portfolio-box">
-                    <img src="{{ "/img/portfolio/" | append: site.portfolio_item_2_img }}" class="img-responsive" alt="">
+                <a href="{% if site.portfolio_item_2_slug %}{{ site.portfolio_item_2_slug }}{% else %}{{ "#" }}{% endif %}" class="portfolio-box">
+                    <img src="{{ "/img/top_picks/" | append: site.portfolio_item_2_img }}" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
@@ -56,8 +56,8 @@
                 </a>
             </div>
             <div class="col-lg-4 col-sm-6">
-                <a href="#" class="portfolio-box">
-                    <img src="{{ "/img/portfolio/" | append: site.portfolio_item_3_img }}" class="img-responsive" alt="">
+                <a href="{% if site.portfolio_item_3_slug %}{{ site.portfolio_item_3_slug }}{% else %}{{ "#" }}{% endif %}" class="portfolio-box">
+                    <img src="{{ "/img/top_picks/" | append: site.portfolio_item_3_img }}" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
@@ -71,8 +71,8 @@
                 </a>
             </div>
             <div class="col-lg-4 col-sm-6">
-                <a href="#" class="portfolio-box">
-                    <img src="{{ "/img/portfolio/" | append: site.portfolio_item_4_img }}" class="img-responsive" alt="">
+                <a href="{% if site.portfolio_item_4_slug %}{{ site.portfolio_item_4_slug }}{% else %}{{ "#" }}{% endif %}" class="portfolio-box">
+                    <img src="{{ "/img/top_picks/" | append: site.portfolio_item_4_img }}" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
@@ -86,8 +86,8 @@
                 </a>
             </div>
             <div class="col-lg-4 col-sm-6">
-                <a href="#" class="portfolio-box">
-                    <img src="{{ "/img/portfolio/" | append: site.portfolio_item_5_img }}" class="img-responsive" alt="">
+                <a href="{% if site.portfolio_item_5_slug %}{{ site.portfolio_item_5_slug }}{% else %}{{ "#" }}{% endif %}" class="portfolio-box">
+                    <img src="{{ "/img/top_picks/" | append: site.portfolio_item_5_img }}" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
@@ -101,8 +101,8 @@
                 </a>
             </div>
             <div class="col-lg-4 col-sm-6">
-                <a href="#" class="portfolio-box">
-                    <img src="{{ "/img/portfolio/" | append: site.portfolio_item_6_img }}" class="img-responsive" alt="">
+                <a href="{% if site.portfolio_item_6_slug %}{{ site.portfolio_item_6_slug }}{% else %}{{ "#" }}{% endif %}" class="portfolio-box">
+                    <img src="{{ "/img/top_picks/" | append: site.portfolio_item_6_img }}" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
