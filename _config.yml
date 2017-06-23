@@ -10,32 +10,32 @@ landing_caption_btn: Tell me more
 app_cta_title: Discover what all the buzz is about!
 app_cta_subtext: Our app will be available to download soon! Register now to be the first to get it!
 
-portfolio_title: Our top picks
-portfolio_subtext: Our favourite places you should check out this week
-portfolio_item_1_title: STREET FEAST
-portfolio_item_1_subtext: more info
-portfolio_item_1_img:  street_feast2.jpg 
-portfolio_item_1_post_slug: 
-portfolio_item_2_title: FOODIES FESTIVAL
-portfolio_item_2_subtext: more info
-portfolio_item_2_img: foodies_fest2.jpg
-portfolio_item_2_post_slug: 
-portfolio_item_3_title: MEATOPIA
-portfolio_item_3_subtext: more info
-portfolio_item_3_img: meatopia2.jpg
-portfolio_item_3_post_slug: 
-portfolio_item_4_title: VEGFESTUK LONDON
-portfolio_item_4_subtext: more info
-portfolio_item_4_img: vegfestuk.jpg
-portfolio_item_4_post_slug: 
-portfolio_item_5_title: KERB 
-portfolio_item_5_subtext: more info
-portfolio_item_5_img: kerb2.jpg
-portfolio_item_5_post_slug: 
-portfolio_item_6_title: URBAN FOOD FEST
-portfolio_item_6_subtext: more info
-portfolio_item_6_img: urban.jpg
-portfolio_item_6_post_slug: 
+top_picks_title: Our top picks
+top_picks_subtext: Our favourite places you should check out this week
+top_picks_item_1_title: STREET FEAST
+top_picks_item_1_subtext: more info
+top_picks_item_1_img:  street_feast2.jpg 
+top_picks_item_1_post_slug: 
+top_picks_item_2_title: FOODIES FESTIVAL
+top_picks_item_2_subtext: more info
+top_picks_item_2_img: foodies_fest2.jpg
+top_picks_item_2_post_slug: 
+top_picks_item_3_title: MEATOPIA
+top_picks_item_3_subtext: more info
+top_picks_item_3_img: meatopia2.jpg
+top_picks_item_3_post_slug: 
+top_picks_item_4_title: VEGFESTUK LONDON
+top_picks_item_4_subtext: more info
+top_picks_item_4_img: vegfestuk.jpg
+top_picks_item_4_post_slug: 
+top_picks_item_5_title: KERB 
+top_picks_item_5_subtext: more info
+top_picks_item_5_img: kerb2.jpg
+top_picks_item_5_post_slug: 
+top_picks_item_6_title: URBAN FOOD FEST
+top_picks_item_6_subtext: more info
+top_picks_item_6_img: urban.jpg
+top_picks_item_6_post_slug: 
 
 features_title: Unlimited features, Unlimited fun
 features_subtext: Check out what you can do with this app theme!
