@@ -1,13 +1,15 @@
 ---
 layout:     post
-title:      "Dinosaurs are extinct today"
-subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
-date:       2016-06-10 12:00:00
-author:     "Antonio Trento"
+title:      "Street Feast"
+subtitle:   "Could it BE more yummy?"
+date:       2017-06-24
+author:     "Team Stuffd"
 header-img: "img/post-bg-01.jpg"
-categories: jekyll
-permalink: /dinosaurs/
-tags: [something]
+top-pick-img: "street_feast2.jpg" #name of file in img/top_picks/ folder
+top-pick-subtitle: "Could it BE more yummy?"
+categories: food-fest
+tags: [top-pick]
+permalink: /street_feast/
 #comments: true
 ---
 
