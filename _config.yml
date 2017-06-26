@@ -29,6 +29,9 @@ social_banner: Follow us!
 aside_title: Never miss another foodie event again!
 aside_btn_text: Sign up for the newsletter
 
+newsletter_title: Sign up today!
+newsletter_text: Give us your best email & we'll give you the best London foodie events, every week!
+
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "/" # the base hostname & protocol for your site
 
