@@ -1,7 +1,7 @@
-.img-semi-trans {
-  opacity:0.5;
+.img-trans-container {
+  background-color:black;
 }
 
-.img-trans-bg {
-  background-color:black;
+.img-trans-container img  {
+  opacity:0.5;  
 }
