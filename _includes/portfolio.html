@@ -29,10 +29,11 @@
     {% if post.url %}
             <div class="col-lg-4 col-sm-6">
                 <a href="{% if post.outlink %}{{ post.outlink }}{% else if post.url %}{{ post.url | prepend: site.baseurl }}{% else %}{{ "#" }}{% endif %}" 
-                        {% if post.outlink %}target="_blank"{% endif %} class="portfolio-box img-trans-container">
+                        {% if post.outlink %}target="_blank"{% endif %} class="portfolio-box">
                     <img src="{{ "/img/top_picks/" | append: post.top-pick-img }}" class="img-responsive" alt="">
-                    <div class="portfolio-box-caption"></div>
                     <div class="portfolio-box-caption" style="opacity:100; background:transparent">
+                    <div class="portfolio-box-caption"></div>
+                    <div class="img-text-overlay"></div>
                         <div class="portfolio-box-caption-content">
                             <div class="project-category text-faded" style="font-size:24px">
                                 {{ post.title }}
