@@ -10,6 +10,7 @@ top-pick-subtitle: "Could it BE more yummy?"
 categories: food-fest
 tags: [top-pick]
 permalink: /urban-food-fest/
+outlink: http://www.urbanfoodfest.com/
 #comments: true
 ---
 

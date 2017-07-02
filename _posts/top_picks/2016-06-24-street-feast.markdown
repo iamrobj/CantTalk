@@ -10,6 +10,7 @@ top-pick-subtitle: "Could it BE more yummy?"
 categories: food-fest
 tags: [top-pick]
 permalink: /street_feast/
+outlink: https://www.streetfeast.com/
 #comments: true
 ---
 

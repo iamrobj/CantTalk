@@ -10,6 +10,7 @@ top-pick-subtitle: "Could it BE more yummy?"
 categories: food-fest
 tags: [top-pick]
 permalink: /foodies_fest/
+outlink: http://foodiesfestival.com/
 #comments: true
 ---
 

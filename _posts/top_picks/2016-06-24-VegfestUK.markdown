@@ -10,6 +10,7 @@ top-pick-subtitle: "Could it BE more yummy?"
 categories: food-fest
 tags: [top-pick]
 permalink: /vegfestuk/
+outlink: https://london.vegfest.co.uk/
 #comments: true
 ---
 

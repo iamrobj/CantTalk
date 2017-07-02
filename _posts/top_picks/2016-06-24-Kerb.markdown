@@ -10,6 +10,7 @@ top-pick-subtitle: "Could it BE more yummy?"
 categories: food-fest
 tags: [top-pick]
 permalink: /kerb/
+outlink: https://www.kerbfood.com/
 #comments: true
 ---
 
