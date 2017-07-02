@@ -382,6 +382,18 @@ section {
             background-color: #344e86;
           }
         }
+        &.social-instagram a {
+          background-color: #bc2a8d;
+          &:hover {
+            background-color: #b02784;
+          }
+        }
+        &.social-youtube a {
+          background-color: #CD201F;
+          &:hover {
+            background-color: #bd1d1d;
+          }
+        }
         &.social-google-plus a {
           background-color: #dd4b39;
           &:hover {
