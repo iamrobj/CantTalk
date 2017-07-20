@@ -1,11 +1,11 @@
 # Site settings
-site_name: Stuffd LDN
-title: The Ultimate Guide to London's Hottest Food Events
+site_name: Go-To Evnt
+title: Enhancing your event experience
 email:
-description: A jekyll template for landing pages, portfolio and blogging
+description: Enhancing your event experience
 
-landing_caption: There has never been a better time to be a foodie in London
-landing_caption_btn: Feed me more
+landing_caption: Every great event deserves a great app.. Let's create yours!
+landing_caption_btn: Find out more
 
 app_cta_title: Discover what all the buzz is about!
 app_cta_subtext: Our app will be available to download soon! Register now to be the first to get it!
@@ -13,24 +13,24 @@ app_cta_subtext: Our app will be available to download soon! Register now to be 
 top_picks_title: Our top picks
 top_picks_subtext: Our favourite places you should check out this week
 
-features_title: We've got you covered
-features_subtext: Check out what you can do with this app theme!
-features_feature_1_title: Goodbye FOMO
-features_feature_1_subtext: Never again will you miss out with our definitive list of upcoming events
-features_feature_2_title: Weekly Newsletter
-features_feature_2_subtext: All the London foodie happenings - straight to your inbox
-features_feature_3_title: Promote your event
-features_feature_3_subtext: Let us know about what you're up to & we'll happily get the word out
-features_feature_4_title: We LOVE food
-features_feature_4_subtext: Maybe even more than you 😛
+features_title: What we offer
+features_subtext: Check out what we can bring to your next event!
+features_feature_1_title: Multi-track Schedules
+features_feature_1_subtext: Attendees can easily view the entire event schedule, all the speakers, all your sponsors & favourite what they want to see, across multiple tracks.
+features_feature_2_title: 100% Offline
+features_feature_2_subtext: That's right - your attendees can see everything your event has to offer, even when they don't have an internet connection.
+features_feature_3_title: Never miss out
+features_feature_3_subtext: Go-To will notify your attendees when something they've favourited in the app is about to start so they'll never miss out.
+features_feature_4_title: No tedious setup
+features_feature_4_subtext: You don't have to learn yet another complicated cms system to create your own Go-To app - we do it ALL for you.  Send us what you want in the app, however you like, and we'll do the rest!
 
 social_banner: Follow us!
 
-aside_title: Never miss another foodie event again!
-aside_btn_text: Sign up for the newsletter
+aside_title: Give your event the app it deserves
+aside_btn_text: Get in touch today
 
-newsletter_title: Sign up today!
-newsletter_text: Give us your best email & we'll give you the best London foodie events, every week!
+newsletter_title: Get in touch
+newsletter_text: Leave us your best email & we'll get back to you on how we can help make your next event the best experience yet!
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "/" # the base hostname & protocol for your site
@@ -40,7 +40,7 @@ data-ad-slot:
 data-ad-client: 
 google_ad_client: 
 
-google_analytics: "UA-102231465-1"
+google_analytics: "UA-102882403-1"
 addthis_id: #ra-5644da281510c62f
 disqus_account: 
 
