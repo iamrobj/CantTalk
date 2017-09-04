@@ -1,10 +1,12 @@
 # Site settings
-site_name: Go-To Evnt
-title: Enhancing your event experience
+site_name: Can't Talk
+title: Auto reply for everything
 email:
-description: Enhancing your event experience
+description: The auto reply app for everything
 
-landing_caption: Every great event deserves a great app.. Let's create yours!
+app_url: https://play.google.com/apps/testing/com.robj.canttalk
+
+landing_caption: The simplest way to tell people you're busy.
 landing_caption_btn: Find out more
 
 app_cta_title: Discover what all the buzz is about!
@@ -13,21 +15,21 @@ app_cta_subtext: Our app will be available to download soon! Register now to be 
 top_picks_title: Our top picks
 top_picks_subtext: Our favourite places you should check out this week
 
-features_title: What we offer
-features_subtext: Check out what we can bring to your next event!
-features_feature_1_title: Multi-track Schedules
-features_feature_1_subtext: Attendees can easily view the entire event schedule, all the speakers, all your sponsors & favourite what they want to see, across multiple tracks.
-features_feature_2_title: 100% Offline
-features_feature_2_subtext: That's right - your attendees can see everything your event has to offer, even when they don't have an internet connection.
-features_feature_3_title: Never miss out
-features_feature_3_subtext: Go-To will notify your attendees when something they've favourited in the app is about to start so they'll never miss out.
-features_feature_4_title: No tedious setup
-features_feature_4_subtext: You don't have to learn yet another complicated cms system to create your own Go-To app - we do it ALL for you.  Send us what you want in the app, however you like, and we'll do the rest!
+features_title: What can it do
+features_subtext: See what Can't Talk can do for you!
+features_feature_1_title: Auto-reply
+features_feature_1_subtext: Turn on Can't Talk & it'll automatically reply to any incoming sms, missed calls or app messages you receive.  Simple.
+features_feature_2_title: Custom messages
+features_feature_2_subtext: Write your own auto reply message i.e. "I'm in a meeting", "I'm driving", "Do you know what time it is?!" ..
+features_feature_3_title: Specify contacts
+features_feature_3_subtext: Specifiy which contact will get an auto reply so you only reply to who you want.
+features_feature_4_title: Reply to apps
+features_feature_4_subtext: Auto reply to messages from Whatsapp, Telegram, Hangouts, Slack, Email & more!
 
 social_banner: Follow us!
 
-aside_title: Give your event the app it deserves
-aside_btn_text: Get in touch today
+aside_title: Never be distrubed again.
+aside_btn_text: Get the beta today
 
 newsletter_title: Get in touch
 newsletter_text: Leave us your best email & we'll get back to you on how we can help make your next event the best experience yet!
@@ -47,13 +49,13 @@ disqus_account:
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:
   - title: twitter
-    url: https://twitter.com/getstuffdldn
-  - title: instagram
-    url: https://instagram.com/getstuffdldn
+    url: https://twitter.com/canttalkapp
+#  - title: instagram
+#    url: https://instagram.com/getstuffdldn
   - title: facebook
     url: https://facebook.com/getstuffdldn
-  - title: youtube
-    url: https://youtube.com/getstuffdldn
+#  - title: youtube
+#    url: https://youtube.com/getstuffdldn
   #- title: google-plus
   #  url: https://plus.google.com/+AntoniotrentoIt
   #- title: github
