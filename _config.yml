@@ -6,7 +6,7 @@ description: The auto reply app for everything
 
 app_url: https://play.google.com/apps/testing/com.robj.canttalk
 
-landing_caption: The simplest way to tell people you're busy.
+landing_caption: Auto-Reply to Whatsapp, Slack, Email & more - Let people know you're busy.
 landing_caption_btn: Find out more
 
 app_cta_title: Discover what all the buzz is about!
@@ -15,16 +15,16 @@ app_cta_subtext: Our app will be available to download soon! Register now to be 
 top_picks_title: Our top picks
 top_picks_subtext: Our favourite places you should check out this week
 
-features_title: What can it do
+features_title: What it does
 features_subtext: See what Can't Talk can do for you!
 features_feature_1_title: Auto-reply
-features_feature_1_subtext: Turn on Can't Talk & it'll automatically reply to any incoming sms, missed calls or app messages you receive.  Simple.
+features_feature_1_subtext: Automatically reply to any sms, missed calls or app messages for you.  Simple.
 features_feature_2_title: Custom messages
 features_feature_2_subtext: Write your own auto reply message i.e. "I'm in a meeting", "I'm driving", "Do you know what time it is?!" ..
 features_feature_3_title: Specify contacts
-features_feature_3_subtext: Specifiy which contact will get an auto reply so you only reply to who you want.
+features_feature_3_subtext: Specify which contact will get an auto reply so you only reply to who you want to.
 features_feature_4_title: Reply to apps
-features_feature_4_subtext: Auto reply to messages from Whatsapp, Telegram, Hangouts, Slack, Email & more!
+features_feature_4_subtext: Auto reply to messages from Whatsapp, Telegram, Hangouts, Slack, Email & many others
 
 social_banner: Follow us!
 
