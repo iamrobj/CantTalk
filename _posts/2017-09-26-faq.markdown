@@ -1,0 +1,18 @@
+---
+layout:     post
+title: "Frequently Asked Questions"
+subtitle: "Need help setting up Can't Talk?  You'll find your answer here."
+date:       2017-09-26 00:00:00
+author:     "Rob J"
+permalink: /faq/
+header-img: "img/post-bg-06.jpg"
+categories: jekyll
+---
+
+<blockquote>Why won't it reply to Whatsapp?  Things to check..</blockquote>
+* Does the app show as running in the status bar of your device?  If not make sure Can't Talk is turned on via the toggle in the top right hand corner of the app.
+* Is the apps toggle turned on in the app?  If not, turn it on.
+* Is Whatsapp checked in the app list?  Tap apps, scroll to Whatsapp in the list - make sure it's checked.
+* Do you have any contacts checked in the apps contact list?  Tap apps, tap the contacts icon in the top right of the screen, make sure no contacts are selected.  If this fixes your issue please let me know as the contacts list feature for apps is experimental & therefore the more information I have about who it does & doesn't work for the easier it'll be for me to make it a stable feature for everyone to use :)
+
+

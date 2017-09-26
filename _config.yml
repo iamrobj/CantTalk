@@ -53,13 +53,7 @@ social:
 #  - title: instagram
 #    url: https://instagram.com/getstuffdldn
   - title: facebook
-    url: https://facebook.com/getstuffdldn
-#  - title: youtube
-#    url: https://youtube.com/getstuffdldn
-  #- title: google-plus
-  #  url: https://plus.google.com/+AntoniotrentoIt
-  #- title: github
-  #  url: http://github.com/jekyll
+    url: https://facebook.com/canttalkapp
 
 # Build settings
 markdown: kramdown
