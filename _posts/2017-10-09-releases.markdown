@@ -1,0 +1,18 @@
+---
+layout:     post
+title: "Release History"
+subtitle: "Every release of Can't Talk & what's changed"
+date:       2017-09-26 00:00:00
+author:     "Rob J"
+permalink: /releases/
+header-img: "img/post-bg-06.jpg"
+categories: jekyll
+---
+
+<blockquote>Release 0.7.7<br/>
+<h5><i>October 9th 2017</i></h5>
+</blockquote>
+
+* Added better support for numerous apps, including Hangouts & FB Messenger
+* Fixed a crash affecting a number of users
+* Minor bug fixes & tweaks
